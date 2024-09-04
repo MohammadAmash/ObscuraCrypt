@@ -1,5 +1,6 @@
 # ObscuraCrypt
 Project Overview: 
+
 ObscuraCrypt is an innovative project aimed at enhancing the security of sensitive personal identification documents during digital transmission. Developed as part of the Bachelor of Technology curriculum in Computer Science and Engineering with a focus on Cyber Security, this project combines advanced techniques in cryptography, computer vision, and machine learning to safeguard Aadhar cards, PAN cards, and driving licenses from unauthorized access and data interception.
 
 Key Features:
