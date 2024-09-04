@@ -17,4 +17,5 @@ Key Features:
   Future scope includes real-time credential detection and blurring for video streams, enhancing security in dynamic environments such as video conferencing.
 
 Impact: 
+
 ObscuraCrypt sets new standards for secure digital interactions, addressing contemporary challenges in data privacy and contributing significantly to the discourse on safeguarding sensitive information in an increasingly interconnected world.
